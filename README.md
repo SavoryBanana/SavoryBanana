@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 I am Patrick Donghil.</h1>
+<h1 align="center">Hello there! 👋 I am Patrick.</h1>
 <img align="right" src="https://media.giphy.com/media/Y2prQiIhEM5ZGlehO7/giphy.gif" alt="Penguin Wave" width="400" height="400" />
 <p align="left">I am a computer scientist solely focusing on the field of <strong>Software Development</strong> with intermediate experience in <strong>Game Development</strong>. I am very collaborative and a very big nerd when it comes to new technologies. Tinkering the Android OS and its respective Linux kernel is my hobby. I enjoy coding (except the debugging part of course) as much as I love tinkering with Android devices. I am also a great companion who can boost your self-esteem! I love encouraging people and I'll lend my ears and my shoulders to anyone with no hesitation.</p>
 
